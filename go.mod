@@ -4,7 +4,6 @@ go 1.18
 
 require (
 	github.com/caddyserver/caddy/v2 v2.5.1
-	github.com/s-demp/coraza-caddy v1.2.0
 	github.com/corazawaf/coraza/v2 v2.0.0
 	go.uber.org/zap v1.21.0
 )
@@ -117,7 +116,7 @@ require (
 	go.step.sm/crypto v0.16.1 // indirect
 	go.step.sm/linkedca v0.15.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
-	go.uber.org/multierr v1.8.0 // indirect
+	go.uber.org/multierr v1.6.0 // indirect
 	golang.org/x/crypto v0.0.0-20220210151621-f4118a5b28e2 // indirect
 	golang.org/x/mod v0.4.2 // indirect
 	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd // indirect
