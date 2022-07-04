@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/caddyserver/caddy/v2 v2.5.1
-	github.com/corazawaf/coraza-caddy v1.2.0
+	github.com/s-demp/coraza-caddy v1.2.0
 	github.com/corazawaf/coraza/v2 v2.0.0
 	go.uber.org/zap v1.21.0
 )

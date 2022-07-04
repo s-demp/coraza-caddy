@@ -259,8 +259,8 @@ github.com/cockroachdb/errors v1.2.4/go.mod h1:rQD95gz6FARkaKkQXUksEje/d9a6wBJoC
 github.com/cockroachdb/logtags v0.0.0-20190617123548-eb05cc24525f/go.mod h1:i/u985jwjWRlyHXQbwatDASoW0RMlZ/3i9yJHE2xLkI=
 github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd/go.mod h1:sE/e/2PUdi/liOCUjSTXgM1o87ZssimdTWN964YiIeI=
 github.com/codegangsta/cli v1.20.0/go.mod h1:/qJNoX69yVSKu5o4jLyXAENLRyk1uhi7zkbQ3slBdOA=
-github.com/corazawaf/coraza-caddy v1.2.0 h1:+KyL35jxDBVP3XPi9gR/N0coBG7NK4y3Oujo51rEY9M=
-github.com/corazawaf/coraza-caddy v1.2.0/go.mod h1:exsP3o8a1GioHsr4z4cpU355y9VW5w+sQo/1Qa2GHjg=
+github.com/s-demp/coraza-caddy v1.2.0 h1:+KyL35jxDBVP3XPi9gR/N0coBG7NK4y3Oujo51rEY9M=
+github.com/s-demp/coraza-caddy v1.2.0/go.mod h1:exsP3o8a1GioHsr4z4cpU355y9VW5w+sQo/1Qa2GHjg=
 github.com/corazawaf/coraza/v2 v2.0.0-rc.3/go.mod h1:lLTGaUlgP44aotO3gr2vAj+l1jyOes7GnoG8xnPfox0=
 github.com/corazawaf/coraza/v2 v2.0.0 h1:0y8Z6fdJTBmmYGFpDu/Wl/3UUMcSBKGoVEzrOKvnSqc=
 github.com/corazawaf/coraza/v2 v2.0.0/go.mod h1:lLTGaUlgP44aotO3gr2vAj+l1jyOes7GnoG8xnPfox0=
