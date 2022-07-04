@@ -5,6 +5,7 @@ go 1.18
 require github.com/caddyserver/caddy/v2 v2.5.1
 
 require (
+	github.com/s-demp/coraza-caddy v1.2.3
 	github.com/BurntSushi/toml v1.0.0 // indirect
 	github.com/alecthomas/chroma v0.10.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.2 // indirect
