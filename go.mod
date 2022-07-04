@@ -1,4 +1,4 @@
-module github.com/corazawaf/coraza-caddy
+module github.com/s-demp/coraza-caddy
 
 go 1.16
 
